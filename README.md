@@ -9,6 +9,26 @@ Do note that I have only tested this watch face with SAMSUNG watches running One
 
 ### 4 Color choices
 
+<table><tr><td><img src="Images/Gawake.png" alt="Green" width="200"></td><td><img src="Images/Rawake.png" alt="Red" width="200"></td><td><img src="Images/Yawake.png" alt="Yellow" width="200"></td><td><img src="Images/Bawake.png" alt="Blue" width="200"></td></tr></table>
+
+### Low battery expression
+
+<table><tr><td><img src="Images/Gtired.png" alt="Green" width="200"></td><td><img src="Images/Rtired.png" alt="Red" width="200"></td><td><img src="Images/Ytired.png" alt="Yellow" width="200"></td><td><img src="Images/Btired.png" alt="Blue" width="200"></td></tr></table>
+
+### Boopable!
+![Boopable proot!](Images/boop.gif)
+
+## Additional Features
+- Displays
+  - Heart rate
+  - Date
+  - Step count/Step Goal
+  - Temperature
+  - Dynamic battery percentage
+  - Notification alerts
+- Customizable Dual Edge complications.
+- Always On Display compatible.
+
 ---
 # Installation
 To install the APK into your watch, first. Download the APK realease from an Android device. Then, you'll need a sideloading app like [Bugjaeger](https://play.google.com/store/apps/details?id=eu.sisik.hackendebug) or [Wear Installer 2](https://play.google.com/store/apps/details?id=org.freepoc.wearinstaller2). You can find tutorials online on how to sideload apps into your watch, but this one by Malcolm Bryant (Developer of Wear Installer) has been the most helpful.
