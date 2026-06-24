@@ -7,13 +7,13 @@ Do note that I have only tested this watch face with SAMSUNG watches running One
 ---
 # Features
 
-### 4 Color choices
+### 5 Color choices
 
-<table><tr><td><img src="Images/Gawake.png" alt="Green" width="200"></td><td><img src="Images/Rawake.png" alt="Red" width="200"></td><td><img src="Images/Yawake.png" alt="Yellow" width="200"></td><td><img src="Images/Bawake.png" alt="Blue" width="200"></td></tr></table>
+<table><tr><td><img src="Images/Gawake.png" alt="Green" width="200"></td><td><img src="Images/Rawake.png" alt="Red" width="200"></td><td><img src="Images/Yawake.png" alt="Yellow" width="200"></td><td><img src="Images/Bawake.png" alt="Blue" width="200"></td><td><img src="Images/Pawake.png" alt="Purple (Suggested by u/Objective_Stranger95)" width="200"></td></tr></table>
 
 ### Low battery expression
 
-<table><tr><td><img src="Images/Gtired.png" alt="Green" width="200"></td><td><img src="Images/Rtired.png" alt="Red" width="200"></td><td><img src="Images/Ytired.png" alt="Yellow" width="200"></td><td><img src="Images/Btired.png" alt="Blue" width="200"></td></tr></table>
+<table><tr><td><img src="Images/Gtired.png" alt="Green" width="200"></td><td><img src="Images/Rtired.png" alt="Red" width="200"></td><td><img src="Images/Ytired.png" alt="Yellow" width="200"></td><td><img src="Images/Btired.png" alt="Blue" width="200"></td><td><img src="Images/Ptired.png" alt="Purple (Suggested by u/Objective_Stranger95)" width="200"></td></tr></table>
 
 ### Boopable!
 ![Boopable proot!](Images/boop.gif)
